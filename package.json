@@ -1,0 +1,19 @@
+{
+  "name": "hiroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "miniapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node miniapp.js"
+  },
+  "author": "SC",
+  "license": "ISC",
+  "engines": {
+    "node": "12.x"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "heroku": "^7.42.4"
+  }
+}
