@@ -24,3 +24,9 @@ app.post("/array", function (req, res) {
 app.listen(PORT, function () {
   console.log(`Example app listening on port ${PORT}!`);
 });
+// H O M E  W OR K ============
+// 1) Отправить с сервера время (GET)
+
+// 2) Отправить массив автомобилей с сервера на клиент (GET)
+
+// 3) Добавить на сервер числа в масив. Добавлять только те, которых нет (POST)
