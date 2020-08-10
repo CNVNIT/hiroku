@@ -1,5 +1,5 @@
 // установить все пакеты проекта "npn install" - в терминале
-// запустить проект "npn start" - в терминале
+// запустить проект "npn start" - в терминале //
 var express = require("express");
 var app = express();
 const PORT = process.env.PORT || 5000;
